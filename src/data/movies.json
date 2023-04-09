@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Thor: Love and thunder",
+    "synopsis": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+    "categories": ["Action", "Adventure", "Fantasy", "Comedy"],
+    "rating": 7.1,
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+    "starRating": 3.5,
+    "nuumberOfReviews": 100,
+    "duration": "1h 59m"
+  },
+  {
+    "name": "Avatar, The Way of Water",
+    "synopsis": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+    "categories": ["Science", "Fiction", "Adventure", "Action"],
+    "rating": 7.8,
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+    "starRating": 4.8,
+    "nuumberOfReviews": 70,
+    "duration": "3h 02m"
+  },
+  {
+    "name": "The Super Mario Bros. Movie",
+    "synopsis": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+    "categories": ["Animation", "Adventure", "Family", "Fantasy", "Comedy"],
+    "rating": 7.6,
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+    "starRating": 4.4,
+    "nuumberOfReviews": 233,
+    "duration": "1h 32m"
+  },
+  {
+    "name": "John Wick: Chapter 4",
+    "synopsis": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+    "categories": ["Action", "Thriller", "Crime"],
+    "rating": 8.0,
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+    "starRating": 4.9,
+    "nuumberOfReviews": 198,
+    "duration": "2h 50m"
+  }
+]
