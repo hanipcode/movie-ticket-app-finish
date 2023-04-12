@@ -5,9 +5,9 @@ const ClippedImage = ({
   source = 'https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg',
 }) => {
   return (
-    <Box overflow="hidden">
+    <Box overflow="hidden" height="340">
       <AspectRatio ratio={1 / 1}>
-        <Image source={{uri: source}} />
+        <Image source={{uri: source}} alt="poster" />
       </AspectRatio>
       <Circle
         backgroundColor="brand.dark"
